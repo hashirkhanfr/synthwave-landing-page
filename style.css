@@ -19,7 +19,7 @@ html {
 
 .color-secondary {
     font-size: 18px;
-    color: #e5e7eb;
+    color: #E5E7EB;
 }
 
 .header-container {
@@ -41,7 +41,7 @@ html {
 .header-logo {
     margin-right: auto;
     font-size: 24px;
-    color: #f9faf8;
+    color: #F9FAF8;
 }
 
 .hero {
@@ -61,7 +61,7 @@ html {
 h1 {
     font-size: 48px;
     font-weight: 900;
-    color: #f9faf8;
+    color: #F9FAF8;
 }
 
 li {
@@ -74,13 +74,68 @@ li {
 }
 
 .bg-dark {
-    background-color: #0d0221;
+    background-color: #0D0221;
 }
 
 .btn-primary {
     padding: 8px 16px;
     border-radius: 8px;
     border: none;
-    background-color: #2de2e6;
-    color: #0d0221;
+    background-color: #2DE2E6;
+    color: #0D0221;
+}
+
+.info-section {
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 96px;
+    background-color: #FF3864;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #0D0221;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    margin-top: 32px;
+}
+
+.color {
+    max-width: 200px;
+}
+
+.one,
+.two,
+.three,
+.four,
+.five {
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    border: 4px solid #F9FAF8;
+}
+
+.one {
+    background-color: #FF6C11;
+}
+
+.two {
+    background-color: #FF3864;
+}
+
+.three {
+    background-color: #2DE2E6;
+}
+
+.four {
+    background-color: #261447;
+}
+
+.five {
+    background-color: #0D0221;
 }
