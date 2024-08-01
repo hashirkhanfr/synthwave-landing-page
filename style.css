@@ -139,3 +139,23 @@ h2 {
 .five {
     background-color: #0D0221;
 }
+
+.quote-section {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    background-color: #262626;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 96px;
+    color: #F9FAF8;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+}
+
+span {
+    align-self: flex-end;
+}
