@@ -1,6 +1,6 @@
-# odin-landing-page
+# synthwave-landing-page
 
-A cool looking landing page
+A clean landing page forked from MaxLedx/odin-landing-page to improve and experiment my own ideas
 
 ## Applied skills
 - Basic HTML
